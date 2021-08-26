@@ -6,11 +6,11 @@ import com.eomcs.pms.domain.Member;
 import com.eomcs.pms.domain.Member2;
 import com.eomcs.util.Prompt;
 
-public class MemberHandler2 {
+public class Member2Handler {
 
   List<Member2> memberList;
 
-  public MemberHandler2(List<Member2> memberList) {
+  public Member2Handler(List<Member2> memberList) {
     this.memberList = memberList;
   }
 
